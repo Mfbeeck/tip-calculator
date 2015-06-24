@@ -51,3 +51,5 @@ put_a_line_of_character_size("~",75)
 
 tip_calc(total_bill, tip_percentage, number_of_people)
 
+#this is a modification for GitHub Wyncode exercises purpose.
+
